@@ -1,4 +1,3 @@
-# Data_cleaning-ouliers_detection-Treating_null_values-Visualisation-on-CAR-PRICE-dataset
 # Data Cleaning, Outlier Detection, and Visualization of Car Prices Dataset
 
 In this project, we will conduct data preprocessing, outlier detection, and exploratory visualization on a dataset containing car prices. The dataset includes key attributes such as Selling Price, Market Price, Model, Odometer, Condition, and other relevant features for various car brands. Our objective is to ensure data quality by systematically handling missing values, identifying outliers in critical numerical fields like pricing and odometer readings, and visualizing data patterns to extract valuable insights into the factors that influence car prices.
